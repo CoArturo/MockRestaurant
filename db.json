@@ -1,0 +1,96 @@
+{
+  "idiomas": [
+    {
+      "LanguageID": 1,
+      "LanguageName": "Español"
+    },
+    {
+      "LanguageID": 2,
+      "LanguageName": "Inglés"
+    },
+    {
+      "LanguageID": 3,
+      "LanguageName": "Portugués"
+    }
+  ],
+  "platos": [
+    {
+      "PlatoID": 1,
+      "Titulo": "Arroz Blanco",
+      "descripcion": "Arroz cocido simple"
+    },
+    {
+      "PlatoID": 2,
+      "Titulo": "Habichuelas rojas guisadas",
+      "descripcion": "Habichuelas rojas cocidas con especias"
+    },
+    {
+      "PlatoID": 3,
+      "Titulo": "Pollo guisado",
+      "descripcion": "Pollo cocido con vegetales y especias"
+    },
+    {
+      "PlatoID": 4,
+      "Titulo": "Pastelón de plátano maduro",
+      "descripcion": "Capas de plátano maduro y carne"
+    }
+  ],
+  "traducciones": [
+    {
+      "TraduccionID": 1,
+      "PlatoID": 1,
+      "LanguageID": 2,
+      "TitleLanguage": "White Rice",
+      "DescripcionLanguage": "Simple cooked rice"
+    },
+    {
+      "TraduccionID": 2,
+      "PlatoID": 1,
+      "LanguageID": 3,
+      "TitleLanguage": "Arroz Branco",
+      "DescripcionLanguage": "Arroz cozido simples"
+    },
+    {
+      "TraduccionID": 3,
+      "PlatoID": 2,
+      "LanguageID": 2,
+      "TitleLanguage": "Stewed Red Beans",
+      "DescripcionLanguage": "Red beans cooked with spices"
+    },
+    {
+      "TraduccionID": 4,
+      "PlatoID": 2,
+      "LanguageID": 3,
+      "TitleLanguage": "Feijão Vermelho Ensopado",
+      "DescripcionLanguage": "Feijão vermelho cozido com especiarias"
+    },
+    {
+      "TraduccionID": 5,
+      "PlatoID": 3,
+      "LanguageID": 2,
+      "TitleLanguage": "Stewed Chicken",
+      "DescripcionLanguage": "Chicken cooked with vegetables and spices"
+    },
+    {
+      "TraduccionID": 6,
+      "PlatoID": 3,
+      "LanguageID": 3,
+      "TitleLanguage": "Frango Ensopado",
+      "DescripcionLanguage": "Frango cozido com vegetais e especiarias"
+    },
+    {
+      "TraduccionID": 7,
+      "PlatoID": 4,
+      "LanguageID": 2,
+      "TitleLanguage": "Ripe Plantain Casserole",
+      "DescripcionLanguage": "Layers of ripe plantain and meat"
+    },
+    {
+      "TraduccionID": 8,
+      "PlatoID": 4,
+      "LanguageID": 3,
+      "TitleLanguage": "Camarão de Banana Madura",
+      "DescripcionLanguage": "Camadas de banana madura e carne"
+    }
+  ]
+}
